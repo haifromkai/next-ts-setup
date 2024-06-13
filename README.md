@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 1. Clone the Repository
-2. Run "npm -i"
-3. Run the development server:
+2. Install all dependencies via Terminal > "npm install"
+3. Run the development server via Terminal:
 
 ```bash
 npm run dev
